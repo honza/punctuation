@@ -46,7 +46,16 @@ Or, API:
     "This is a test&#8212;that&#8217;s right"
 
 
+Credits
+-------
+
+The recommendations and entity characters come from the excellent [The Trouble
+With EM & EN (and Other Shady Characters)][1] article.
+
 License
 -------
 
 BSD, short and sweet.
+
+
+[1]: http://www.alistapart.com/articles/emen/
